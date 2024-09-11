@@ -1,3 +1,5 @@
+Consultation Appointment Scheduler Through Android Application
+
 This system aims to create an android application that will be accessible to faculties and students. 
 To directly perceive the time availability of the professor for consultation matters. 
 Moreover, this application can set a schedule for the student on when and where the consultation will happen.
